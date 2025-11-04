@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+yfinance
+matplotlib
+plotly
+scipy
+scikit-learn
+lightgbm
+hmmlearn
+arch
+transformers
+stable-baselines3 
+gym
+feedparser
