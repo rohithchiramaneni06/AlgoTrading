@@ -75,6 +75,3 @@ See `requirements.txt` for a complete list of dependencies. Key libraries includ
 - `portfolio_optimization.py`: Portfolio optimization algorithms
 - `Algo_trading.py`: Trading execution adapters
 - `backtest.py`: Backtesting framework
-
-- This project was developed for Hackathon Purpose
-- Special thanks to [Any acknowledgments]
