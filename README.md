@@ -76,8 +76,5 @@ See `requirements.txt` for a complete list of dependencies. Key libraries includ
 - `Algo_trading.py`: Trading execution adapters
 - `backtest.py`: Backtesting framework
 
-
-## Acknowledgments
-
 - This project was developed for Hackathon Purpose
 - Special thanks to [Any acknowledgments]
